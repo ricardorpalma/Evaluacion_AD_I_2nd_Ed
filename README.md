@@ -11,7 +11,9 @@ Evaluación Analítica de Datos Industriales Año 2025
 | Rovinson Cetre | <rovinsocetre@gmail.com> | https://github.com/rovinsoncetre/Entrega_de_Rovinson- | En contruccion |
 ° Patricio Torres G | <lpatricio.torresg@gmail.com> | Entrega por RPubs | <https://rpubs.com/PTorres/1372946> |
 
+<hr>
 
+Ejemplo de plantilla para publicar en rpubs (recuerda agregar al final el conjunto de datos) <https://rpubs.com/ricardorpalma/1371204>
 
 
 
