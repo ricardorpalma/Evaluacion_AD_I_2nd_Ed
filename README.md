@@ -20,6 +20,7 @@ Entrega final **Sábado 13 de Diciembre 2025**
 | Saul Ortiz | <saulor1984@gmail.com> | https://github.com/saulor1984-sys/Analitica_Datos_Industriales | En construcción |
 | David Calderon | <dacalderon07@gmail.com> | https://github.com/dacalderon07/Analitica_Datos_Industriales/blob/main/README.md | En construcción |
 | Karina Berrezueta | <karina.berrezuetaespin@gmail.com> | https://github.com/karinaberrezuetaespin-jpg/Evaluacion_ADI | En construcción |
+| Pablo Proaño | <pablo.proano@epn.edu.ec> | https://github.com/PjosP/Entrega_Final_Pablo_Proano | En construcción |
 
 
 
