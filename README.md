@@ -4,11 +4,12 @@ Evaluación Analítica de Datos Industriales Año 2025
 <hr>
 Entrega final **Sábado 13 de Diciembre 2025**
 <hr>
-
+Esperando cierre de actas Febrero 2026 (aún puedes subir el trabajo a tu github
+<hr>
 
 |Apellido y Nombre | Correo | Repositorio GitHub | Sitio Web Git Hub|
 |------------------|--------|--------------------|------------------|
-|Hugo Tapia        |<hftapia@gmail.com> | <https://github.com/hftapia/Entrega_Anal-ticadeDatos/tree/main> | Pendiente de Entrega |
+|Hugo Tapia        |<hftapia@gmail.com> | <https://github.com/hftapia/Entrega_Anal-ticadeDatos/tree/main> | Aprobado |
 |Claudio Guevara   |<educacionclaudioguevara@gmail.com> |  https://github.com/claudioguevarav/entrega_analiticadedatos/tree/main | Aprobado|
 | Pablo Delgado    | <pablodelgadovalencia@gmail.com> | https://github.com/pablodelgadovalencia-web/entrega_AnaliticadeDatos/ | Pendiente de Entrega | 
 | Vanessa Benavides| vbenavides1786@gmail.com> | <https://github.com/vbenavides1786-eng/Entrega-Analitica-datos> | Aprobado |
