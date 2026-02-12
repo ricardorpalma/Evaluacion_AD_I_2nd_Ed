@@ -11,7 +11,7 @@ Esperando cierre de actas Febrero 2026 (aún puedes subir el trabajo a tu github
 |------------------|--------|--------------------|------------------|
 |Hugo Tapia        |<hftapia@gmail.com> | <https://github.com/hftapia/Entrega_Anal-ticadeDatos/tree/main> | Aprobado |
 |Claudio Guevara   |<educacionclaudioguevara@gmail.com> |  https://github.com/claudioguevarav/entrega_analiticadedatos/tree/main | Aprobado|
-| Pablo Delgado    | <pablodelgadovalencia@gmail.com> | https://github.com/pablodelgadovalencia-web/entrega_AnaliticadeDatos/ | Pendiente de Entrega | 
+| Pablo Delgado    | <pablodelgadovalencia@gmail.com> | https://github.com/pablodelgadovalencia-web/entrega_AnaliticadeDatos/ | Aprobado | 
 | Vanessa Benavides| vbenavides1786@gmail.com> | <https://github.com/vbenavides1786-eng/Entrega-Analitica-datos> | Aprobado |
 | Rovinson Cetre | <rovinsocetre@gmail.com> | <https://github.com/rovinsoncetre/Entrega_de_Rovinson-> | Pendiente de Entrega |
 | Marcelo Vanella | <marcelovanella@gmail.com> | <https://github.com/MarceVanella/Entrega-AnaliticaDeDatos> | Aprobado |
