@@ -23,7 +23,7 @@ Esperando cierre de actas Febrero 2026 (aún puedes subir el trabajo a tu github
 | Karina Berrezueta | <karina.berrezuetaespin@gmail.com> | https://github.com/karinaberrezuetaespin-jpg/Evaluacion_ADI | Aprobado |
 | Pablo Proaño | <pablo.proano@epn.edu.ec> | https://github.com/PjosP/Entrega_Final_Pablo_Proano | Aprobado |
 | Víctor Santos-Logroño |  santos.victor2012@gmail.com | https://github.com/VictorSL91/Entrega_AnaliticaDeDatos/tree/main | Aprobado |
-
+| Pilar Roxana Naspud U |  prnu392@gmail.com | https:// | Aprobado |
 
 
 <hr>
